@@ -17,6 +17,9 @@ Foi desenvolvido em **HTML, CSS e JavaScript puro**.
 ## 📂 Estrutura do Projeto
 
 ProjetoCriandoAppWeb/
+
 ├── index.html # Estrutura principal da aplicação
+
 ├── style.css # Estilos (inclui dark mode)
+
 └── script.js # Lógica em JavaScript (fetch na API, eventos, etc.)
